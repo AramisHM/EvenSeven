@@ -1,0 +1,5 @@
+rede;
+{
+	// 		Duracao			nome
+	event(	1..10,			io);
+}

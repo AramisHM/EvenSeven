@@ -1,0 +1,8 @@
+﻿proc 10;
+
+// Arquivo de eventos dependentes, precisa ter um diretório relativo ao executável
+depevents("e_dependentes.aed");
+
+//	  Start 		Duration	Quantity	Name
+event(1..50,		1..10,		1..5,		mouse);
+event(1..50,		1..10,		1..5,		rede);

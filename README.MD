@@ -1,5 +1,5 @@
 # EvenSeven 0.1 (2014)
-EvenSeven is a college work program used to simulate IO events in a mono-processed system.
+EvenSeven is a college work program used to simulate IO events in a mono-processed system. It is written in C/C++ and uses Irrlicht 3D Graphic engine for rendering the graph and FLTK for GUI.
 
 ## How to use
 Run the application and select an .AIS file such as
@@ -25,3 +25,7 @@ rede;
 The above files should generate something like:
 
 ![alt tag](https://github.com/AramisHM/EvenSeven/blob/master/snapshots/snapshot_1.PNG)
+
+
+## Dependencies
+The software requires fltk 1.4.3 or above and Irrlicht 1.7.3 or above, these are not shipped with this software.

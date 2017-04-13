@@ -29,3 +29,5 @@ The above files should generate something like:
 
 ## Dependencies
 The software requires fltk 1.4.3 or above and Irrlicht 1.7.3 or above, these are not shipped with this software.
+
+ESG3 is based in part on the work of the FLTK project (http://www.fltk.org).

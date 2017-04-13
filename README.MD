@@ -24,7 +24,7 @@ rede;
 
 The above files should generate something like:
 
-![alt tag](https://github.com/AramisHM/EvenSeven/blob/master/snapshots/snapshot_1.PNG)
+![alt tag](https://github.com/AramisHM/EvenSeven/blob/master/snapshots/snapshot_1.png)
 
 
 ## Dependencies
